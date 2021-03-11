@@ -9,6 +9,7 @@ We meet at 9 here: http://meet.drwhy.ai/
 - 2021-03-02  Introduction to Responsible Machine Learning
 
 - 2021-03-09  Project: topics selection
+- 2021-03-16  If needed, let's talk a bit about tools, optional, no presentation planned
 
 - 2021-03-23  Fairness - [Legal perspective (Ethics)](https://ec.europa.eu/digital-single-market/en/news/ethics-guidelines-trustworthy-ai) (Konrad O)
 - 2021-03-30  Fairness - [Introduction + Classification](https://fairmlbook.org/) (Błażej P)
@@ -24,6 +25,7 @@ We meet at 9 here: http://meet.drwhy.ai/
 - 2021-06-01	Methods - [Permutational Feature Importance](http://ema.drwhy.ai/featureImportance.html) (Mateusz B)
 
 - 2021-06-08	Project: last presentation
+- 2021-06-15	Let's meet and conclude this semester
 
 
 ## Projects
