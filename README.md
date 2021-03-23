@@ -27,6 +27,13 @@ We meet at 9 here: http://meet.drwhy.ai/
 - 2021-06-08	Project: last presentation
 - 2021-06-15	Let's meet and conclude this semester
 
+## Comments from meetings
+
+* The Productivity–Pay Gap https://www.epi.org/productivity-pay-gap/
+* The gap between wages and productivity https://blogs.lse.ac.uk/netuf/2018/05/24/the-gap-between-wages-and-productivity/
+* ARTIFICIAL INTELLIGENCE AND THE MODERN PRODUCTIVITY PARADOX: A CLASH OF EXPECTATIONS AND STATISTICS https://www.nber.org/system/files/working_papers/w24001/w24001.pdf
+* China: AI Governance Principles Released https://www.loc.gov/law/foreign-news/article/china-ai-governance-principles-released/
+
 
 ## Projects
 
