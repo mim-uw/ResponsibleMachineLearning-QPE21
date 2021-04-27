@@ -50,7 +50,7 @@ I expect you go though followng stepss
 ### Project groups
 
 - Mateusz B. + Konrad K.
-- Erita N.  + Pirapat P.
+- Erita N.  + Pirapat P. + Joanna R.
 - Stanisław Ł. + Anna B. 
 - Sylwia W. + Błażej P.
 
