@@ -13,7 +13,7 @@ We meet at 9 here: http://meet.drwhy.ai/
 
 - 2021-03-23  Fairness - [Legal perspective (Ethics)](https://ec.europa.eu/digital-single-market/en/news/ethics-guidelines-trustworthy-ai) (Joanna R)
 - 2021-03-30  Fairness - [Introduction + Classification](https://fairmlbook.org/) (Błażej P)
-- 2021-04-13  Fairness - [Testing discrimination](https://fairmlbook.org/) (Anna B) (Krzysztof O) [jupiter notebook](https://github.com/mim-uw/ResponsibleMachineLearning-QPE21/blob/main/materials/RML_Testing%20discrimination.ipynb)
+- 2021-04-13  Fairness - [Testing discrimination](https://fairmlbook.org/) (Anna B) (Krzysztof O) [slides](https://github.com/mim-uw/ResponsibleMachineLearning-QPE21/blob/main/materials/RML_Testing%20discrimination_prezentacja_Anna%20Boros_Krzysztof%20Osesik.pdf), [jupiter notebook](https://github.com/mim-uw/ResponsibleMachineLearning-QPE21/blob/main/materials/RML_Testing%20discrimination.ipynb)
 - 2021-04-20	Interpretability - [DARPA](https://www.darpa.mil/program/explainable-artificial-intelligence), [2](https://www.darpa.mil/attachments/DARPA-BAA-16-53.pdf) [slides](https://github.com/mim-uw/ResponsibleMachineLearning-QPE21/blob/main/materials/DARPA%20slide%20short.pdf) (Erita N)
 
 - 2021-04-27	Project: first presentation
