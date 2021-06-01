@@ -24,8 +24,8 @@ We meet at 9 here: http://meet.drwhy.ai/
 - 2021-05-25	Methods - [Partial Dependence Plots](http://ema.drwhy.ai/partialDependenceProfiles.html) (Pirapat P)
 - 2021-06-01	Methods - [Permutational Feature Importance](http://ema.drwhy.ai/featureImportance.html) (Mateusz B)
 
-- 2021-06-08	Project: last presentation
-- 2021-06-15	Let's meet and conclude this semester
+- 2021-06-08	Let's meet and conclude this semester
+- 2021-06-15	Project: last presentation
 
 ## Comments from meetings
 
